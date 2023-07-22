@@ -2,7 +2,7 @@ import telebot
 import cfg
 import handlers
 
-
+#123
 if __name__ == '__main__':
 
     # Регистрируем бота
