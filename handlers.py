@@ -1,6 +1,5 @@
 import service.offer_service as offer_srv
 
-
 def set_handlers(bot):
     # обработчик текстовых сообщений
     @bot.message_handler(content_types=['text'])
